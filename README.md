@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [@titusyaka](https://t.me/titusyaka).
+- 💼 More contacts in my [CV](https://titusjaka.github.io/online-cv) 🤓.
+
 <!--
 **titusjaka/titusjaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
