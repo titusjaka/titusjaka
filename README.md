@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: [<img src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-24px.svg" alt="telegram" width="14"/> denis_titusov](https://t.me/denis_titusov).
-- 💼 More contacts in my [CV](https://titusjaka.github.io/online-cv) 🤓.
+- 💼 More contacts in my [CV](https://cv.titusov.me/) 🤓.
 
 <!--
 **titusjaka/titusjaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
